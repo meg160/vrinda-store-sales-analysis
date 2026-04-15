@@ -24,8 +24,7 @@ This dashboard includes:
 - Maharashtra is the highest revenue-generating state
 - Adult age group contributes the most sales
 
-##  Dashboard Preview
-(dashboard.png)
+
 
 
 
